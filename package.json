@@ -1,0 +1,19 @@
+{
+  "name": "ts_in_js_demo",
+  "version": "1.0.0",
+  "description": "《TS in JS 实践指南》配套demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lienviws/TS_in_JS_DEMO.git"
+  },
+  "author": "lienviws",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lienviws/TS_in_JS_DEMO/issues"
+  },
+  "homepage": "https://github.com/Lienviws/TS_in_JS_DEMO#readme"
+}
