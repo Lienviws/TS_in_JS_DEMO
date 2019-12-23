@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/Lienviws/TS_in_JS_DEMO/issues"
   },
-  "homepage": "https://github.com/Lienviws/TS_in_JS_DEMO#readme"
+  "homepage": "https://github.com/Lienviws/TS_in_JS_DEMO#readme",
+  "devDependencies": {
+    "@types/node": "^12.12.21",
+    "@types/webpack": "^4.41.0",
+    "vue": "^2.6.11"
+  }
 }

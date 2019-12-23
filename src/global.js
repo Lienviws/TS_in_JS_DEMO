@@ -1,0 +1,1 @@
+window.XXCompanyLib // XXCompanyLib 下有一些预定的 type
