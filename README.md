@@ -2,6 +2,8 @@
 
 《TS in JS 实践指南》配套demo
 
+建议 clone 或者下载下来到本地实际体验
+
 ## 开始
 
 > npm install
